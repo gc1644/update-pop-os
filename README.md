@@ -1,4 +1,4 @@
-# whatever
+# updating pop os automated
 
 ```
 contains .sh script (goes to /bin/)
