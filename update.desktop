@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Updates
+Exec=cosmic-term -e "/bin/update.sh"
+Icon=system-software-update
+Terminal=true
+Categories=Utility;
