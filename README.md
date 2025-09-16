@@ -1,6 +1,3 @@
 # updating pop os automated
 
-```
-contains .sh script (goes to /bin/)
-and .desktop file (goesto .local/share/applications)
-```
+contains .sh script and .desktop file (goesto .local/share/applications)
